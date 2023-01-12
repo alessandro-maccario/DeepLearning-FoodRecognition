@@ -4,7 +4,7 @@ Project on Food Recognition for the course Foundations of Deep Learning of Unive
 # Goal
 To build a Deep Learning model in order to classify food images.
 
-
+# Dataset
 The dataset can be found at the following link:
 
 **ExampleFood Image Dataset**
